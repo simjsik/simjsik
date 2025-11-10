@@ -21,7 +21,8 @@
             <img src="https://img.shields.io/badge/Recoil-0179f3?style=flat&logo=Recoil&logoColor=white">
             <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white">
             <br/>
-            <br/>
+        </div>
+        <div style="margin-top: 40px;">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simjsik&layout=compact">
         </div>
 </div>
