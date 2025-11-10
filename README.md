@@ -22,7 +22,7 @@
         </div>
 </div>
 <div align= "center"> 
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?simjsik=anuraghazra&size_weight=0.5&count_weight=0.5)
+    https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5
 </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
