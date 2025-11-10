@@ -1,5 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=Hackbo's%20Github&animation=twinkling&fontColor=ffffff&fontSize=60" />
+    <img src="https://github-readme-stats.vercel.app/api?username=simjsik&show_icons=true">
 </div>
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"></h2>  
@@ -21,7 +22,6 @@
             <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white">
             <br/>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simjsik&layout=compact">
-            <img src="https://github-readme-stats.vercel.app/api?username=simjsik&show_icons=true">
         </div>
 </div>
 <div align= "center">
